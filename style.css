@@ -1,0 +1,33 @@
+body{
+  background-image: url('bg.jpg');
+  background-size: cover;
+  color: white;
+}
+
+h1{
+  font-family: 'Hachi Maru Pop', cursive;
+  font-size: 3em;
+  font-weight: 700;
+  padding: 3%;
+}
+.carousel1{
+  width:50vw;
+  height: 50vh;
+}
+
+.details{
+  margin-top: 8%;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+.form1{
+  margin: 5%;
+}
+footer{
+  background-color: black;
+}
+
+.end{
+  align-items: center;
+}
